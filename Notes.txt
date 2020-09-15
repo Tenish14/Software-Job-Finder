@@ -1,0 +1,68 @@
+PRoject
+
+Regustration (2 types)
+-You can register as an employer/company
+-You can register as an Employee Job hunter
+
+Posting: 
+(Employer) You should be able to add a Job Post
+(Employee) You should be able to apply for he job post.
+
+As an employeer you should be able to :
+	-Add a job post
+	-delete a job post
+	-edit a job post
+	-view all job post you created
+	-view all who applied for the job
+	-verify job applicant
+
+As an employee/ job hunter you should be able to: 
+	-view all jobs
+	-apply for a job
+	-cancel job application
+	-You should upload the resume
+
+Data Model:
+(employer/company)
+Job Post
+	-Company image
+	-Job title
+	-Job Categorys
+	-Job Description
+	-Location
+	-Requiments
+	-Resposiblities
+	-Salary(Optional)	
+
+User 1(Employee)
+	-Firstname
+	-Lastname
+	-Email
+	-Password
+	-Resume(Optional)
+
+User 2(Employer/Company)
+	Comapany name
+	Email
+	Password
+
+JobPost
+	Applicants: [user1,user2]
+Applicants
+	JobPOstID
+	Applicants : [user1,user2]
+	authorOfJobpost:
+	
+Catogeries (ex. Webdev, Mobile Dev, iOS Dev, Android Dev, Desktop Dev,Data scientist)
+
+Autorization
+	You cannot add a job post if you are not login 
+	You cannot apply to a job post if you are not logged in.
+
+(must to be hosted!) (sep 16)
+
+
+Presentation
+
+Statement of the problem
+Why is your application is the solution to this problem

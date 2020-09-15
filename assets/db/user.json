@@ -1,0 +1,30 @@
+[
+    {
+        "companyname": "Netflix",
+        "email": "netflix123@gmail.com",
+        "image": "..\/assets\/img\/employer\/download (1).png",
+        "password": "1",
+        "isEmployer": true
+    },
+    {
+        "username": "tenish123",
+        "email": "tenish14@gmail.com",
+        "password": "1",
+        "image": "..\/assets\/img\/user\/download.jfif",
+        "isEmployer": false
+    },
+    {
+        "companyname": "Instagram",
+        "email": "instagram123@gmail.com",
+        "image": "..\/assets\/img\/employer\/download (2).jfif",
+        "password": "1",
+        "isEmployer": true
+    },
+    {
+        "username": "johndoe123",
+        "email": "tenish02@gmail.com",
+        "password": "1",
+        "image": "..\/assets\/img\/user\/Tenish Pic.jpg",
+        "isEmployer": false
+    }
+]

@@ -1,0 +1,30 @@
+[   
+    {
+        "job_title": "Web Developer",
+        "description": "make responsive\r\nvrudvbsiodbv\r\nsndbvsdv",
+        "location": "Bangkok, Thailand",
+        "experience": "1 day",
+        "respond": "sdbufibp\r\ndsbcsd\r\ncbdsouv",
+        "educational": "Form 3",
+        "skills": "HTML",
+        "salary": "RM 5600",
+        "id": 2,
+        "company": "Instagram",
+        "company_image": "..\/assets\/img\/employer\/download (2).jfif",
+        "datePosted": "14-09-2020"
+    },
+    {
+        "job_title": "Web Developer",
+        "description": "vius\r\nsbvuofb\r\nsdvbfvidb",
+        "location": "Banglasdesh",
+        "experience": "1 hour",
+        "respond": "dbvibv\r\ndvsbvo\r\nvsbouv",
+        "educational": "Finish Spm is enough",
+        "skills": "Javascript",
+        "salary": "RM 2000",
+        "id": 3,
+        "company": "Netflix",
+        "company_image": "..\/assets\/img\/employer\/download (1).png",
+        "datePosted": "14-09-2020"
+    }
+]
